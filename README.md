@@ -1,6 +1,5 @@
 # Messenger-Website
 Can be used to send messages on whatsapp as well as instagram without visiting them separately but in one go and simultaneously. Just send message to one messenger and your message will be send to both social media.
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,14 +54,3 @@ Can be used to send messages on whatsapp as well as instagram without visiting t
     </script>
 </body>
 </html>
-
-
-    
-        
-       
-
-           
-           
-
-  
-
